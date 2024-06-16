@@ -1,0 +1,1 @@
+print(([None]*3).ex
