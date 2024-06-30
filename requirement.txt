@@ -2,3 +2,7 @@ pandas
 numpy
 matplotlib
 seaborn
+wordcloud
+scikit-learn
+xgboost
+tensorflow[and-cuda]
