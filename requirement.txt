@@ -1,8 +1,15 @@
 pandas
 numpy
 matplotlib
+mplfinance
+statsmodels
+setuptools
+tqdm
+scikit-learn
+pmdarima
 seaborn
 wordcloud
-scikit-learn
 xgboost
-tensorflow[and-cuda]
+tensorflow
+keras
+keras-tcn
