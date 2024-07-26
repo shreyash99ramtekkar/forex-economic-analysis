@@ -1,0 +1,5 @@
+Please refer to the pdf file "impact of economic events on.pdf" for details.
+
+Introduction: There are some economic events(news) when it comes out it will impact the forex excahnge currency so i am trying to predict what will be the price after the economic event is publish
+
+Problem: My algorithms are giving 100% accuracy which is problem. I need to find tune my model. 
